@@ -1,0 +1,17 @@
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\bin\Debug\net8.0\Quiz.Business.deps.json
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\bin\Debug\net8.0\Quiz.Business.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\bin\Debug\net8.0\Quiz.Business.pdb
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\bin\Debug\net8.0\Quiz.Core.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\bin\Debug\net8.0\Quiz.Data.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\bin\Debug\net8.0\Quiz.Data.pdb
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\bin\Debug\net8.0\Quiz.Core.pdb
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Business.csproj.AssemblyReference.cache
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Business.AssemblyInfoInputs.cache
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Business.AssemblyInfo.cs
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Business.csproj.CoreCompileInputs.cache
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Bus.D863B430.Up2Date
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Business.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\refint\Quiz.Business.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\Quiz.Business.pdb
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Business\obj\Debug\net8.0\ref\Quiz.Business.dll

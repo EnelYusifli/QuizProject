@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enel\\source\\repos\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11E8EBE-847B-4436-8495-655039003D41}|src\\Quiz.API\\Quiz.API.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11E8EBE-847B-4436-8495-655039003D41}|src\\Quiz.API\\Quiz.API.csproj|solutionrelative:src\\quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.business\\mappingprofiles\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|solutionrelative:src\\quiz.business\\mappingprofiles\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.business\\validations\\blogsoftdeletedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|solutionrelative:src\\quiz.business\\validations\\blogsoftdeletedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.business\\validations\\blogdeletedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|solutionrelative:src\\quiz.business\\validations\\blogdeletedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.business\\validations\\blogputdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|solutionrelative:src\\quiz.business\\validations\\blogputdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27117C38-C7F2-4CE8-B780-0AFB07AA6ADB}|src\\Quiz.Data\\Quiz.Data.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.data\\configurations\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27117C38-C7F2-4CE8-B780-0AFB07AA6ADB}|src\\Quiz.Data\\Quiz.Data.csproj|solutionrelative:src\\quiz.data\\configurations\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E985858F-786B-441F-9146-65D8D7711BFC}|src\\Quiz.Business\\Quiz.Business.csproj|solutionrelative:src\\quiz.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27117C38-C7F2-4CE8-B780-0AFB07AA6ADB}|src\\Quiz.Data\\Quiz.Data.csproj|c:\\users\\enel\\source\\repos\\quiz\\src\\quiz.data\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27117C38-C7F2-4CE8-B780-0AFB07AA6ADB}|src\\Quiz.Data\\Quiz.Data.csproj|solutionrelative:src\\quiz.data\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.API\\Program.cs",
+              "RelativeToolTip": "src\\Quiz.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:24:39.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\MappingProfiles\\BlogProfile.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.Business\\MappingProfiles\\BlogProfile.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\MappingProfiles\\BlogProfile.cs",
+              "RelativeToolTip": "src\\Quiz.Business\\MappingProfiles\\BlogProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:07:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogSoftDeleteDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Validations\\BlogSoftDeleteDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.Business\\Validations\\BlogSoftDeleteDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Validations\\BlogSoftDeleteDtoValidator.cs",
+              "RelativeToolTip": "src\\Quiz.Business\\Validations\\BlogSoftDeleteDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:07:36.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogDeleteDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Validations\\BlogDeleteDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.Business\\Validations\\BlogDeleteDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Validations\\BlogDeleteDtoValidator.cs",
+              "RelativeToolTip": "src\\Quiz.Business\\Validations\\BlogDeleteDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:07:26.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPutDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Validations\\BlogPutDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.Business\\Validations\\BlogPutDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Validations\\BlogPutDtoValidator.cs",
+              "RelativeToolTip": "src\\Quiz.Business\\Validations\\BlogPutDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:07:24.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Data\\Configurations\\BlogConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.Data\\Configurations\\BlogConfiguration.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Data\\Configurations\\BlogConfiguration.cs",
+              "RelativeToolTip": "src\\Quiz.Data\\Configurations\\BlogConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:07:18.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Services\\Implementations\\BlogService.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.Business\\Services\\Implementations\\BlogService.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Business\\Services\\Implementations\\BlogService.cs",
+              "RelativeToolTip": "src\\Quiz.Business\\Services\\Implementations\\BlogService.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:06:14.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Data\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "src\\Quiz.Data\\Repositories\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.Data\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "src\\Quiz.Data\\Repositories\\BlogRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:05:50.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

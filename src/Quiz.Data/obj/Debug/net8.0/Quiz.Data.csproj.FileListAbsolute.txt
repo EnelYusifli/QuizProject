@@ -1,0 +1,17 @@
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\bin\Debug\net8.0\Quiz.Data.deps.json
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\bin\Debug\net8.0\Quiz.Data.runtimeconfig.json
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\bin\Debug\net8.0\Quiz.Data.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\bin\Debug\net8.0\Quiz.Data.pdb
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\bin\Debug\net8.0\Quiz.Core.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\bin\Debug\net8.0\Quiz.Core.pdb
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.csproj.AssemblyReference.cache
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.AssemblyInfoInputs.cache
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.AssemblyInfo.cs
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.csproj.CoreCompileInputs.cache
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.csproj.Up2Date
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\refint\Quiz.Data.dll
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.pdb
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\Quiz.Data.genruntimeconfig.cache
+C:\Users\Enel\source\repos\Quiz\src\Quiz.Data\obj\Debug\net8.0\ref\Quiz.Data.dll

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.API\\wwwroot\\uploads\\2e2b7514-c94b-481a-9382-4bd103e8de68product-5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2e2b7514-c94b-481a-9382-4bd103e8de68product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Enel\\source\\repos\\Quiz\\src\\Quiz.API\\wwwroot\\uploads\\ab89aa44-56fd-4b34-8350-445bd01947b8product-6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ab89aa44-56fd-4b34-8350-445bd01947b8product-6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Quiz.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Quiz.API.props",
+      "PackagePath": "build\\Quiz.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Quiz.API.props",
+      "PackagePath": "buildMultiTargeting\\Quiz.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Quiz.API.props",
+      "PackagePath": "buildTransitive\\Quiz.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
